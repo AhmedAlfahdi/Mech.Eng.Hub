@@ -5,27 +5,30 @@
 2. [Online Resorces](#online-resorces)
 3. [Road map for Mechanical Engineering](#road-map-for-mechanical-engineering)
 4. [Software](#software)
-   1. CAx (Computer Aided Design, Analysis, and Manufacturing)
-   2. Programming
-   3. 
+   1. Online tools 
+   2. CAx (Computer Aided Design, Engineering, and Manufacturing)
+   3. Programming
+   4. General list of scientific software (Linux/Windows): [Arch Wiki List](https://wiki.archlinux.org/title/List_of_applications/Science)
 
 ## Essential readings
 
-1. [The Feynman Lectures on Physics](https://www.feynmanlectures.caltech.edu/) - This is a great resource for learning physics.
+1. [The Feynman Lectures on Physics](https://www.feynmanlectures.caltech.edu/)
 2. 
-## Online Resorces [Go to top](#websites-i-found-to-be-useful)
-1. [Library Genesis](http://gen.lib.rus.ec/) - The zenth of all online libraries. You can find almost any book here.[^1]
-2. [Sci-Hub](http://sci-hub.tw/) - This is a website that has a lot of scientific papers that you can download for free. It is a great resource for finding papers that you can't find anywhere else.
+3. 
+## Online Resorces [↫](#websites-i-found-to-be-useful)
+1. [Library Genesis](http://gen.lib.rus.ec/) - The zenth of all online libraries. You can find almost any book here. [^1] [^2]
+2. [Sci-Hub](http://sci-hub.tw/) - This is a website that has a lot of scientific papers that you can download for free. It is a great resource for finding papers that you can't find anywhere else.[^2]
 3. [Open Source Mechanical Eingineeing Books](https://www.intechopen.com/subjects/121)
-4. Free Computer Books (https://freecomputerbooks.com/) - This is a website that has a lot of books that you can download for free. It is a great resource for finding books that you can't find anywhere else.
+4. [Free Computer Books](https://freecomputerbooks.com/) - This is a website that has a lot of books that you can download for free. It is a great resource for finding books that you can't find anywhere else.
 
-[^1]: [Mirrors](https://libgen.onl/library-genesis/) - If the main website is down, you can use one of the mirrors to access the website.
-## Recommended books for Mechanical Engineering [Go to top](#websites-i-found-to-be-useful)
+[^1]: [Libgen Wiki](https://libgen.onl/library-genesis/https://www.reddit.com/r/libgen/wiki/index/) - If the main website is down, you can use one of the mirrors to access the website.
+[^2]: Please support this project if you can!
+## Recommended books for Mechanical Engineering [↫](#websites-i-found-to-be-useful)
 
 ### Introduction
 An Introduction to Mechanical Engineering by Jonathan Wickert
 Fundamentals
-### Engineering Mechanics [Go to top](#_introduction)
+### Engineering Mechanics [↫](#_introduction)
 #### Statics
 1. Engineering Mechanics: Statics by Hibbeler
 2. Engineering Mechanics: Statics by Meriam and Kraige (supplement)
@@ -34,36 +37,36 @@ Fundamentals
 4. Engineering Mechanics: Dynamics by Hibbeler
 5. Engineering Dynamics: A Comprehensive introduction by Kasdin and Paley
 6. Fundamentals of Applied Dynamics by Williams Jr
-### Mechanics of Materials [Go to top](#introduction)
+### Mechanics of Materials [↫](#introduction)
 1. Mechanics of Materials by Hibbeler
 2. Mechanics of Materials by Gere and Goodno (or the older editions by Gere and Timoshenko)
 3. Mechanics of Materials by Popov
 4. Strength of Materials (Dover Books on Physics) by Den Hartog
 5. Advanced Strength of Materials (Dover Civil and Mechanical Engineering) by Den Hartog
 6. History of Strength of Materials by Timoshenko (Interesting read to go along with the above)
-### Material Science [Go to top](#introduction)
+### Material Science [↫](#introduction)
 1. Fundamentals of Materials Science and Engineering - Callister and Rethwisch (Crystallography)
 2. Mechanical Behavior of Materials - Dowling (Excellent resource on material failure)
 3. The New Science of Strong Materials or Why You Don't Fall through the Floor - Gordon
-### Fluid Mechanics [Go to top](#introduction)
+### Fluid Mechanics [↫](#introduction)
 1. Fluid Mechanics: Fundamentals and Applications by Çengel and Cimbala
 2. Fluid Mechanics by Kundu and Cohen
-### Thermodynamics [Go to top](#introduction)
+### Thermodynamics [↫](#introduction)
 1. Thermodynamics: An Engineering Approach by Çengel and Boles
 2. Fundamentals of Engineering Thermodynamics by Moran, Shapiro, Boettner, and Bailey
 3. Fundamentals of Thermodynamics by Borgnakke and Sonntag
-### Mechanical Design [Go to top](#introduction)
+### Mechanical Design [↫](#introduction)
 1. Fundamentals of Machine Component Design by Juvinall and Marshek
 2. Materials Selection in Mechanical Design by Ashby
 3. Shigley's Mechanical Engineering Design by Budynas and Nisbett 
 4. Machine Design: An Integrated Approach by Norton 
 5. DANotes: Design and Analysis of Machine Elements by Douglas Wright 
 6. Machine Elements in Mechanical Design by Mott, Vavrek and Wang 
-### Heat Transfer [Go to top](#introduction)
+### Heat Transfer [↫](#introduction)
 1. Heat and Mass Transfer: Fundamentals and Applications by Çengel and Ghajar
 2. Fundamentals of Heat and Mass Transfer (or introduction to Heat Transfer) by Incropera, DeWitt, Bergman, and Lavine
 3. A Heat Transfer Textbook (Dover Civil and Mechanical Engineering) by John H Lienhard V and John H Lienhard IV
-### Special Topics [Go to top](#introduction)
+### Special Topics [↫](#introduction)
 #### Vibrations
 1. Engineering Vibration by Inman
 2. Mechanical Vibration: Analysis, Uncertainties, and Control by Benaroya
@@ -147,9 +150,10 @@ Tensor Calculus and Analytical Dynamics by Papastavridis
 
 
 
-## Software [Go to top](#websites-i-found-to-be-useful)
+## Software [↫](#websites-i-found-to-be-useful)
 
-Online resrocese 
+Online rearouses 
 
 1. [Fxsolver](https://www.fxsolver.com/) - This is a website that has a lot of equations that you can use to solve problems.
-2. 
+2. [NumPad](https://numpad.io/) - Online calculator with units and constants.
+3. 
