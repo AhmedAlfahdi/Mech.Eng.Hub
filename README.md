@@ -5,30 +5,27 @@
 2. [Online Resorces](#online-resorces)
 3. [Road map for Mechanical Engineering](#road-map-for-mechanical-engineering)
 4. [Software](#software)
-   1. Online tools 
-   2. CAx (Computer Aided Design, Engineering, and Manufacturing)
-   3. Programming
-   4. General list of scientific software (Linux/Windows): [Arch Wiki List](https://wiki.archlinux.org/title/List_of_applications/Science)
+   1. CAx (Computer Aided Design, Analysis, and Manufacturing)
+   2. Programming
+   3. 
 
 ## Essential readings
 
-1. [The Feynman Lectures on Physics](https://www.feynmanlectures.caltech.edu/)
+1. [The Feynman Lectures on Physics](https://www.feynmanlectures.caltech.edu/) - This is a great resource for learning physics.
 2. 
-3. 
-## Online Resorces [↫](#websites-i-found-to-be-useful)
-1. [Library Genesis](http://gen.lib.rus.ec/) - The zenth of all online libraries. You can find almost any book here. [^1] [^2]
-2. [Sci-Hub](http://sci-hub.tw/) - This is a website that has a lot of scientific papers that you can download for free. It is a great resource for finding papers that you can't find anywhere else.[^2]
+## Online Resorces [Go to top](#websites-i-found-to-be-useful)
+1. [Library Genesis](http://gen.lib.rus.ec/) - The zenth of all online libraries. You can find almost any book here.[^1]
+2. [Sci-Hub](http://sci-hub.tw/) - This is a website that has a lot of scientific papers that you can download for free. It is a great resource for finding papers that you can't find anywhere else.
 3. [Open Source Mechanical Eingineeing Books](https://www.intechopen.com/subjects/121)
-4. [Free Computer Books](https://freecomputerbooks.com/) - This is a website that has a lot of books that you can download for free. It is a great resource for finding books that you can't find anywhere else.
+4. Free Computer Books (https://freecomputerbooks.com/) - This is a website that has a lot of books that you can download for free. It is a great resource for finding books that you can't find anywhere else.
 
-[^1]: [Libgen Wiki](https://libgen.onl/library-genesis/https://www.reddit.com/r/libgen/wiki/index/) - If the main website is down, you can use one of the mirrors to access the website.
-[^2]: Please support this project if you can!
-## Recommended books for Mechanical Engineering [↫](#websites-i-found-to-be-useful)
+[^1]: [Mirrors](https://libgen.onl/library-genesis/) - If the main website is down, you can use one of the mirrors to access the website.
+## Recommended books for Mechanical Engineering [Go to top](#websites-i-found-to-be-useful)
 
 ### Introduction
 An Introduction to Mechanical Engineering by Jonathan Wickert
 Fundamentals
-### Engineering Mechanics [↫](#_introduction)
+### Engineering Mechanics [Go to top](#_introduction)
 #### Statics
 1. Engineering Mechanics: Statics by Hibbeler
 2. Engineering Mechanics: Statics by Meriam and Kraige (supplement)
