@@ -1,31 +1,54 @@
-# Part 1: Websites I found to be useful
+# The Mechanical Engineering Hub: A collection of resources for Mechanical Engineering
 ## Table of Contents
 
-1. [Essential readings](#essential-readings)
-2. [Online Resorces](#online-resorces)
-3. [Road map for Mechanical Engineering](#road-map-for-mechanical-engineering)
-4. [Software](#software)
+1. [Essential Tools](#essential-tools)
+2. [Essential readings](#essential-readings)
+3. [Online Resorces](#online-resorces-↫)
+4. [Road map for Mechanical Engineering](#road-map-for-mechanical-engineering)
+5. [Software](#software-↫)
    1. CAx (Computer Aided Design, Analysis, and Manufacturing)
    2. Programming
-   3. 
 
-## Essential readings
 
-1. [The Feynman Lectures on Physics](https://www.feynmanlectures.caltech.edu/) - This is a great resource for learning physics.
+## Blogs worth checking out [↫](#table-of-contents)
+
+1. [Bartosz Ciechanowski](https://ciechanow.ski/archives/)
 2. 
-## Online Resorces [Go to top](#websites-i-found-to-be-useful)
-1. [Library Genesis](http://gen.lib.rus.ec/) - The zenth of all online libraries. You can find almost any book here.[^1]
-2. [Sci-Hub](http://sci-hub.tw/) - This is a website that has a lot of scientific papers that you can download for free. It is a great resource for finding papers that you can't find anywhere else.
+## Essential Tools [↫](#table-of-contents)
+
+1. [Sioyek](https://sioyek.info/) - A PDF reader that is designed for reading scientific papers. It has a lot of features that make it easier to read scientific papers. An overview tutorial of the features and capabilities can be found [here](https://www.youtube.com/watch?v=RaHRvnb0dY8&t=1506s).
+2. [LiquidText](https://www.liquidtext.net/) - A proprietary PDF reader and notes taker for both windows and iOS. Works the best with stylus and touch screen devices.
+3. [Smath Studio](https://smath.com/en-US) - A free software that you can use to solve equations.
+4. [VScode](https://code.visualstudio.com/) - A code editor that is designed for programming. It has a lot of features that make it easier to program.
+
+## Essential Introductory Readings [↫](#table-of-contents)
+
+1. [How to read a book](https://fs.blog/how-to-read-a-book/)
+2. [How to read a research paper](http://ccr.sigcomm.org/online/files/p83-keshavA.pdf) 'Doi: 10.1145/52325.52356'
+3. [How complex systems fail](https://how.complexsystems.fail/)
+
+
+## Introductry reading for math and physics [↫](#table-of-contents)
+
+3. [The Feynman Lectures on Physics](https://www.feynmanlectures.caltech.edu/) 
+4. [Calculus Made Easy](https://calculusmadeeasy.org/) 
+
+
+## Online Resorces [↫](#table-of-contents)
+
+1. [Library Genesis](https://libgen.is/) - The zenth of all online libraries. You can find almost any book here.[^1]
+2. [Sci-Hub](https://sci-hub.se/) - This is a website that has a lot of scientific papers that you can download for free. It is a great resource for finding papers that you can't find anywhere else.[^2]
 3. [Open Source Mechanical Eingineeing Books](https://www.intechopen.com/subjects/121)
-4. Free Computer Books (https://freecomputerbooks.com/) - This is a website that has a lot of books that you can download for free. It is a great resource for finding books that you can't find anywhere else.
+4. [Free Computer Books](https://freecomputerbooks.com/) - This is a website that has a lot of books that you can download for free. It is a great resource for finding books that you can't find anywhere else.
 
 [^1]: [Mirrors](https://libgen.onl/library-genesis/) - If the main website is down, you can use one of the mirrors to access the website.
-## Recommended books for Mechanical Engineering [Go to top](#websites-i-found-to-be-useful)
+[^2]: [Mirror 1](sci-hub.se); [Mirror 2](sci-hub.st)
+## Recommended books for Mechanical Engineering [↫](#table-of-contents)
 
 ### Introduction
-An Introduction to Mechanical Engineering by Jonathan Wickert
+1. An Introduction to Mechanical Engineering by Jonathan Wickert
 Fundamentals
-### Engineering Mechanics [Go to top](#_introduction)
+### Engineering Mechanics [↫](#table-of-contents)
 #### Statics
 1. Engineering Mechanics: Statics by Hibbeler
 2. Engineering Mechanics: Statics by Meriam and Kraige (supplement)
@@ -34,14 +57,14 @@ Fundamentals
 4. Engineering Mechanics: Dynamics by Hibbeler
 5. Engineering Dynamics: A Comprehensive introduction by Kasdin and Paley
 6. Fundamentals of Applied Dynamics by Williams Jr
-### Mechanics of Materials [↫](#introduction)
+### Mechanics of Materials [↫](#table-of-contents)
 1. Mechanics of Materials by Hibbeler
 2. Mechanics of Materials by Gere and Goodno (or the older editions by Gere and Timoshenko)
 3. Mechanics of Materials by Popov
 4. Strength of Materials (Dover Books on Physics) by Den Hartog
 5. Advanced Strength of Materials (Dover Civil and Mechanical Engineering) by Den Hartog
 6. History of Strength of Materials by Timoshenko (Interesting read to go along with the above)
-### Material Science [↫](#introduction)
+### Material Science [↫]#table-of-contents)
 1. Fundamentals of Materials Science and Engineering - Callister and Rethwisch (Crystallography)
 2. Mechanical Behavior of Materials - Dowling (Excellent resource on material failure)
 3. The New Science of Strong Materials or Why You Don't Fall through the Floor - Gordon
@@ -147,10 +170,17 @@ Tensor Calculus and Analytical Dynamics by Papastavridis
 
 
 
-## Software [↫](#websites-i-found-to-be-useful)
+## Software [↫](#table-of-contents)
 
-Online rearouses 
+### Online 
 
-1. [Fxsolver](https://www.fxsolver.com/) - This is a website that has a lot of equations that you can use to solve problems.
-2. [NumPad](https://numpad.io/) - Online calculator with units and constants.
-3. 
+1. [Fxsolver](https://www.fxsolver.com/) - Huge library of equations and formulas covering all felids of science and engineering.
+2. [Desmos](https://www.desmos.com/) - Online graphing calculator.
+3. [Engineering paper](https://engineeringpaper.xyz/) - Shareable interactive engineering calculations and graphs.
+4. [NumPad](https://numpad.io/) - Online calculator with units and constants.
+
+
+### Standalone
+
+1. [Smath](https://smath.com/en-UShttps://smath.com/en-US) - This is a free software that you can use to solve equations.
+2. 
