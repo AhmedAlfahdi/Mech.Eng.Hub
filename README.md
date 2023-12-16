@@ -17,14 +17,18 @@
 
 ## Essential Tools [↫](#table-of-contents)
 
-### PDF readers 
+### PDF readers
+
 1. [Sioyek](https://sioyek.info/) - A PDF reader that is designed for reading scientific papers. It has a lot of features that make it easier to read scientific papers. An overview tutorial of the features and capabilities can be found [here](https://www.youtube.com/watch?v=RaHRvnb0dY8&t=1506s).
 2. [LiquidText](https://www.liquidtext.net/) - A proprietary PDF reader and notes taker for both windows and iOS. Works the best with stylus and touch screen devices.
 
 ### Calculations and graphing
+
 #### Standalone
+
 3. [Smath Studio](https://smath.com/en-US) - A free software that you can use to solve equations.
 4. [VScode](https://code.visualstudio.com/) - A code editor that is designed for programming. It has a lot of features that make it easier to program.
+
 #### Online
 
 ## Essential Introductory Readings [↫](#table-of-contents)
@@ -48,8 +52,22 @@
 [^1]: [Mirrors](https://libgen.onl/library-genesis/) - If the main website is down, you can use one of the mirrors to access the website.
 [^2]: [Mirror 1](sci-hub.se); [Mirror 2](sci-hub.st)
 
-## Recommended books for Mechanical Engineering [↫](#table-of-contents)
+## Software [↫](#table-of-contents)
 
+### Online
+
+1. [Fxsolver](https://www.fxsolver.com/) - Huge library of equations and formulas covering all felids of science and engineering.
+2. [Desmos](https://www.desmos.com/) - Online graphing calculator.
+3. [Engineering paper](https://engineeringpaper.xyz/) - Shareable interactive engineering calculations and graphs.
+4. [NumPad](https://numpad.io/) - Online calculator with units and constants.
+
+### Standalone
+
+1. [Smath](https://smath.com/en-UShttps://smath.com/en-US) - This is a free software that you can use to solve equations.
+2.
+
+## Recommended books for Mechanical Engineering [↫](#table-of-contents) [^3]
+[^3]: use [Library Genesis](#online-resorces-↫) to download the books.
 ### Introduction
 
 1. An Introduction to Mechanical Engineering by Jonathan Wickert
@@ -214,17 +232,3 @@ Tensor Calculus and Analytical Dynamics by Papastavridis
 
 1. Fundamentals of Engineering Acoustics by Kinsler
 2. Acoustics by Beranek
-
-## Software [↫](#table-of-contents)
-
-### Online
-
-1. [Fxsolver](https://www.fxsolver.com/) - Huge library of equations and formulas covering all felids of science and engineering.
-2. [Desmos](https://www.desmos.com/) - Online graphing calculator.
-3. [Engineering paper](https://engineeringpaper.xyz/) - Shareable interactive engineering calculations and graphs.
-4. [NumPad](https://numpad.io/) - Online calculator with units and constants.
-
-### Standalone
-
-1. [Smath](https://smath.com/en-UShttps://smath.com/en-US) - This is a free software that you can use to solve equations.
-2.
