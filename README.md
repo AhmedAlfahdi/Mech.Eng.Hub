@@ -1,4 +1,5 @@
-# The Mechanical Engineering Hub: A collection of resources for Mechanical Engineering
+# The Mechanical Engineering Hub: A collection of resources for Mechanical Engineering V1.2
+see if the github issue feature works
 
 ## Table of Contents
 
