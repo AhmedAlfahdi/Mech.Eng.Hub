@@ -58,15 +58,15 @@ Test the github issue feature
 
 ### Online
 
-1. [Fxsolver](https://www.fxsolver.com/) - Huge library of equations and formulas covering all felids of science and engineering.
-2. [Desmos](https://www.desmos.com/) - Online graphing calculator.
-3. [Engineering paper](https://engineeringpaper.xyz/) - Shareable interactive engineering calculations and graphs.
+1. [Engineering paper](https://engineeringpaper.xyz/) - Shareable interactive engineering calculations and graphs.
+2. [Fxsolver](https://www.fxsolver.com/) - Huge library of equations and formulas covering all felids of science and engineering.
+3. [Desmos](https://www.desmos.com/) - Online graphing calculator.
 4. [NumPad](https://numpad.io/) - Online calculator with units and constants.
 
 ### Standalone
 
 1. [Smath](https://smath.com/en-UShttps://smath.com/en-US) - This is a free software that you can use to solve equations.
-2.
+2. []
 
 ## Recommended books for Mechanical Engineering [↫](#table-of-contents) [^3]
 [^3]: use [Library Genesis](#online-resorces-↫) to download the books.
