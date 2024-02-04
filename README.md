@@ -1,21 +1,23 @@
 # The Mechanical Engineering Hub: A collection of resources for Mechanical Engineering V1.2
-see if the github issue feature works
 
+> Version control of v1.2
 ## Table of Contents
 
 1. [Essential Tools](#essential-tools)
-2. [Essential readings](#essential-readings)
-3. [Online Resorces](#online-resorces-↫)
+2. [Essential readings](#essential-readings)g
+3. [Online Resources](#online-resources-%E2%86%ABtable-of-contents)
 4. [Road map for Mechanical Engineering](#road-map-for-mechanical-engineering)
 5. [Software](#software-↫)
    1. CAx (Computer Aided Design, Analysis, and Manufacturing)
-   2. Programming
+   2. Programming `Symbolic`
 
 ## Blogs worth checking out [↫](#table-of-contents)
 
 1. [Bartosz Ciechanowski](https://ciechanow.ski/archives/)
 2.
-Test the github issue feature 
+
+
+
 ## Essential Tools [↫](#table-of-contents)
 
 ### PDF readers
@@ -38,18 +40,18 @@ Test the github issue feature
 2. [How to read a research paper](http://ccr.sigcomm.org/online/files/p83-keshavA.pdf) 'Doi: 10.1145/52325.52356'
 3. [How complex systems fail](https://how.complexsystems.fail/)
 
-## Introductry reading for math and physics [↫](#table-of-contents)
+## Introductory reading for math and physics [↫](#table-of-contents)
 
 3. [The Feynman Lectures on Physics](https://www.feynmanlectures.caltech.edu/)
 4. [Calculus Made Easy](https://calculusmadeeasy.org/)
 
-## Online Resorces [↫](#table-of-contents)
+## Online Resources [↫](#table-of-contents)
 
 1. [Library Genesis](https://libgen.is/) - The zenth of all online libraries. You can find almost any book here.[^1]
 2. [Sci-Hub](https://sci-hub.se/) - This is a website that has a lot of scientific papers that you can download for free. It is a great resource for finding papers that you can't find anywhere else.[^2]
    1. [Sci-Hub X Now!](https://github.com/gchenfc/sci-hub-now) - Free access to academic papers with just a single click!
    2. [Zotero Scihub](https://github.com/ethanwillis/zotero-scihub) - Addon for Zotero and Juris-M to automatically download PDFs from Sci-Hub.
-3. [Open Source Mechanical Eingineeing Books](https://www.intechopen.com/subjects/121)
+3. [Open Source Mechanical Engineering Books](https://www.intechopen.com/subjects/121)
 4. [Free Computer Books](https://freecomputerbooks.com/) - This is a website that has a lot of books that you can download for free. It is a great resource for finding books that you can't find anywhere else.
 
 [^1]: [Mirrors](https://libgen.onl/library-genesis/) - If the main website is down, you can use one of the mirrors to access the website.
@@ -70,7 +72,7 @@ Test the github issue feature
 2. []
 
 ## Recommended books for Mechanical Engineering [↫](#table-of-contents) [^3]
-[^3]: use [Library Genesis](#online-resorces-↫) to download the books.
+[^3]: use [Library Genesis](#online-resources-%E2%86%ABtable-of-contents) to download the books.
 ### Introduction
 
 1. An Introduction to Mechanical Engineering by Jonathan Wickert
