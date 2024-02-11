@@ -1,22 +1,20 @@
 # The Mechanical Engineering Hub: A collection of resources for Mechanical Engineering V1.2
 
-> Version control of v1.2
+
 ## Table of Contents
 
 1. [Essential Tools](#essential-tools)
-2. [Essential readings](#essential-readings)g
+2. [Essential readings](#essential-readings)
 3. [Online Resources](#online-resources-%E2%86%ABtable-of-contents)
 4. [Road map for Mechanical Engineering](#road-map-for-mechanical-engineering)
 5. [Software](#software-↫)
    1. CAx (Computer Aided Design, Analysis, and Manufacturing)
-   2. Programming `Symbolic`
+   2. Programming
 
 ## Blogs worth checking out [↫](#table-of-contents)
 
 1. [Bartosz Ciechanowski](https://ciechanow.ski/archives/)
-2.
-
-
+2. [Willem Pennings](https://willempennings.nl/)
 
 ## Essential Tools [↫](#table-of-contents)
 
@@ -61,14 +59,14 @@
 
 ### Online
 
-1. [Engineering paper](https://engineeringpaper.xyz/) - Shareable interactive engineering calculations and graphs.
+1. [Engineering paper](https://engineeringpaper.xyz/) - Shareable interactive engineering calculations and graphs powered by Python.
 2. [Fxsolver](https://www.fxsolver.com/) - Huge library of equations and formulas covering all felids of science and engineering.
 3. [Desmos](https://www.desmos.com/) - Online graphing calculator.
 4. [NumPad](https://numpad.io/) - Online calculator with units and constants.
 
 ### Standalone
 
-1. [Smath](https://smath.com/en-UShttps://smath.com/en-US) - This is a free software that you can use to solve equations.
+1. [Smath](https://smath.com/en-UShttps://smath.com/en-US) - Unit aware textbook like calculator with support of both numerical and symbolic calculations using Maxima engine. 
 2. []
 
 ## Recommended books for Mechanical Engineering [↫](#table-of-contents) [^3]
