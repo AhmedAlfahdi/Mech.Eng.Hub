@@ -1,15 +1,47 @@
-# The Mechanical Engineering Hub: A collection of resources for Mechanical Engineering V1.2
+# The Mechanical Engineering Hub
 
+Opinionated list of things I wish I knew when I started my journey in Mechanical Engineering. This is a living document and will be updated as I learn more. If you have any suggestions, feel free to open an issue. 
 
 ## Table of Contents
 
-1. [Essential Tools](#essential-tools)
-2. [Essential readings](#essential-readings)
-3. [Online Resources](#online-resources-%E2%86%ABtable-of-contents)
-4. [Road map for Mechanical Engineering](#road-map-for-mechanical-engineering)
-5. [Software](#software-↫)
-   1. CAx (Computer Aided Design, Analysis, and Manufacturing)
-   2. Programming
+1. [The Mechanical Engineering Hub](#the-mechanical-engineering-hub)
+   1. [Table of Contents](#table-of-contents)
+   2. [Blogs worth checking out ↫](#blogs-worth-checking-out-)
+   3. [Essential Tools ↫](#essential-tools-)
+      1. [PDF readers](#pdf-readers)
+      2. [Calculations and graphing](#calculations-and-graphing)
+         1. [Standalone](#standalone)
+         2. [Online](#online)
+   4. [Introductory General Readings ↫](#introductory-general-readings-)
+   5. [Introductory reading for math and physics ↫](#introductory-reading-for-math-and-physics-)
+   6. [Online Resources ↫](#online-resources-)
+   7. [Software ↫](#software-)
+      1. [Online](#online-1)
+   8. [Recommended books for Mechanical Engineering ↫ \[^3\]](#recommended-books-for-mechanical-engineering--3)
+      1. [Introduction](#introduction)
+      2. [Engineering Mechanics ↫](#engineering-mechanics-)
+         1. [Statics](#statics)
+         2. [Dynamics](#dynamics)
+      3. [Mechanics of Materials ↫](#mechanics-of-materials-)
+      4. [Material Science \[↫\]#table-of-contents)](#material-science-table-of-contents)
+      5. [Fluid Mechanics ↫](#fluid-mechanics-)
+      6. [Thermodynamics ↫](#thermodynamics-)
+      7. [Mechanical Design ↫](#mechanical-design-)
+      8. [Heat Transfer ↫](#heat-transfer-)
+      9. [Special Topics ↫](#special-topics-)
+         1. [Vibrations](#vibrations)
+         2. [Manufacturing](#manufacturing)
+         3. [Computational Fluid Dynamics](#computational-fluid-dynamics)
+         4. [Orbital Mechanics](#orbital-mechanics)
+         5. [Propulsion](#propulsion)
+         6. [Flight Mechanics](#flight-mechanics)
+         7. [Aircraft Design](#aircraft-design)
+         8. [Internal Combustion Engine](#internal-combustion-engine)
+         9. [Combustion Theory](#combustion-theory)
+         10. [Control Systems Engineering](#control-systems-engineering)
+         11. [Advanced Dynamics](#advanced-dynamics)
+         12. [Analytical Mechanics](#analytical-mechanics)
+         13. [Acoustics](#acoustics)
 
 ## Blogs worth checking out [↫](#table-of-contents)
 
@@ -21,21 +53,21 @@
 ### PDF readers
 
 1. [Sioyek](https://sioyek.info/) - A PDF reader that is designed for reading scientific papers. It has a lot of features that make it easier to read scientific papers. An overview tutorial of the features and capabilities can be found [here](https://www.youtube.com/watch?v=RaHRvnb0dY8&t=1506s).
-2. [LiquidText](https://www.liquidtext.net/) - A proprietary PDF reader and notes taker for both windows and iOS. Works the best with stylus and touch screen devices.
+2. [Samarta PDF](https://www.sumatrapdfreader.org/free-pdf-reader.html) - A free PDF reader that is designed for reading scientific papers. It has a lot of features that make it easier to read scientific papers.
 
 ### Calculations and graphing
 
 #### Standalone
 
-3. [Smath Studio](https://smath.com/en-US) - A free software that you can use to solve equations.
+3. [Smath Studio](https://smath.com/en-US) - A free software that you can use to solve equations.`
 4. [VScode](https://code.visualstudio.com/) - A code editor that is designed for programming. It has a lot of features that make it easier to program.
 
 #### Online
 
-## Essential Introductory Readings [↫](#table-of-contents)
+## Introductory General Readings [↫](#table-of-contents)
 
 1. [How to read a book](https://fs.blog/how-to-read-a-book/)
-2. [How to read a research paper](http://ccr.sigcomm.org/online/files/p83-keshavA.pdf) 'Doi: 10.1145/52325.52356'
+2. [How to read a research paper](http://ccr.sigcomm.org/online/files/p83-keshavA.pdf)
 3. [How complex systems fail](https://how.complexsystems.fail/)
 
 ## Introductory reading for math and physics [↫](#table-of-contents)
@@ -53,7 +85,7 @@
 4. [Free Computer Books](https://freecomputerbooks.com/) - This is a website that has a lot of books that you can download for free. It is a great resource for finding books that you can't find anywhere else.
 
 [^1]: [Mirrors](https://libgen.onl/library-genesis/) - If the main website is down, you can use one of the mirrors to access the website.
-[^2]: [Mirror 1](sci-hub.se); [Mirror 2](sci-hub.st)
+[^2]: [Mirror 1](https://sci-hub.hkvisa.net/)
 
 ## Software [↫](#table-of-contents)
 
@@ -63,11 +95,6 @@
 2. [Fxsolver](https://www.fxsolver.com/) - Huge library of equations and formulas covering all felids of science and engineering.
 3. [Desmos](https://www.desmos.com/) - Online graphing calculator.
 4. [NumPad](https://numpad.io/) - Online calculator with units and constants.
-
-### Standalone
-
-1. [Smath](https://smath.com/en-UShttps://smath.com/en-US) - Unit aware textbook like calculator with support of both numerical and symbolic calculations using Maxima engine. 
-2. []
 
 ## Recommended books for Mechanical Engineering [↫](#table-of-contents) [^3]
 [^3]: use [Library Genesis](#online-resources-%E2%86%ABtable-of-contents) to download the books.
