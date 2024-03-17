@@ -119,7 +119,7 @@ node_27["Manufacturing Tech."]
 node_31["Manufacturing"]
 end 
 
-Eng. ==C==> Career
+Eng. ===C===> Career
 
 node_1 ==A==> node_2
 node_2 --> node_3
