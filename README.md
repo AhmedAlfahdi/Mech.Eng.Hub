@@ -69,16 +69,80 @@ Opinionated list of things I wish I knew when I started my journey in Mechanical
 1. [VScode](https://code.visualstudio.com/) - A code editor that is designed for programming. It has a lot of features that make it easier to program.`Standalone & Online`
  
 2. [Obsidian](https://obsidian.md/) - A note-taking app that is designed for taking notes. It has a lot of features that make it easier to take notes.`Standalone`
+
+
 ```mermaid
 
 flowchart TB
-  node_1["Mechnical Engineering "]
+  node_1["Fundemantals (core)"]
   node_2["Math"]
-  node_3(["physics"])
+  node_3["Physics"]
+
+  node_4["Mechanics
+  - Statics
+  - Dynamics
+  "]
+  node_5["Material Scince
+  - Strength of Materials"]
+  node_6["Fluid"]
+  node_8["Thermo"]
+  node_7["Fundemantals of Engineering"]
+  node_9["Electrical
+  - Power
+  - Electronics
+  - Control"]
+
+  node_13["Oil & Gas?"]
+
+ node_19["Job path"]
+
   node_1 --> node_2
   node_2 --> node_3
+  node_3 --> node_7
+
+  node_7 --> node_4
+  node_7 --> node_5
+  node_7 --> node_6
+    node_7 --> node_8
+    node_7 --> node_9 
+
+
+    node_4 --> node_19
+    node_5 --> node_19
+    node_6 --> node_19
+    node_8 --> node_19
+    node_9 --> node_19
+
+    node_19 --> node_13
+node_20["Desgin"]
+node_21["FEA"]
+node_20 --> node_21
+node_31["Manufacturing"]
+
+node_19 --> node_20
+node_19 --> node_31
+
+node_22["Pipeline Engineering"]
+node_13 --> node_22
+node_23["Reservoir Engineering"]
+node_13 --> node_23
+node_24["Drilling Engineering"]
+node_13 --> node_24
+node_25["Production Engineering"]
+node_13 --> node_25
+node_26["Facilities Engineering"]
+node_13 --> node_26
+node_27["Health, Safety, and Environment"]
+node_13 --> node_27
+
+
+
+
+
+
 
 ```
+
 
 <!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
 <!-- ## Recommended books for Mechanical Engineering [↫](#table-of-contents) [^3]
