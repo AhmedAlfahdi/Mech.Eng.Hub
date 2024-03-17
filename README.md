@@ -119,11 +119,11 @@ node_27["Manufacturing Tech."]
 node_31["Manufacturing"]
 end 
 
-ME ====C===> Career
+ME ===B==> Career
 
-node_1 ==A==> node_2
+node_1 --> node_2
 node_2 --> node_3
-node_3 ==B==> node_7
+node_3 ===A==> node_7
 node_7 --> node_4
 node_7 --> node_5
 node_7 --> node_6
