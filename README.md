@@ -85,7 +85,7 @@ subgraph Fundamentals
     node_3["Physics"]
 end
 
-subgraph Eng.
+subgraph ME
 node_4["Mechanics
 - Statics
 - Dynamics
@@ -119,7 +119,7 @@ node_27["Manufacturing Tech."]
 node_31["Manufacturing"]
 end 
 
-Eng. ===C===> Career
+ME ====C===> Career
 
 node_1 ==A==> node_2
 node_2 --> node_3
