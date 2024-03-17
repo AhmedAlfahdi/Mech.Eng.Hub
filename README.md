@@ -14,7 +14,8 @@ Opinionated list of things I wish I knew when I started my journey in Mechanical
       1. [PDF readers](#pdf-readers)
       2. [Calculations and graphing](#calculations-and-graphing)
       3. [Note Taking \& Programming](#note-taking--programming)
-      4. [Roadmap ↫](#roadmap-)
+   7. [Roadmap ↫](#roadmap-)
+2. [Software guidance for ME](#software-guidance-for-me)
 
 ## Introductory General Readings [↫](#table-of-contents)
 
@@ -31,24 +32,26 @@ Opinionated list of things I wish I knew when I started my journey in Mechanical
 
 1. [Library Genesis](https://libgen.is/) - The zenth of all online libraries. You can find almost any book here.[^1]
 2. [Sci-Hub](https://sci-hub.se/) - This is a website that has a lot of scientific papers that you can download for free. It is a great resource for finding papers that you can't find anywhere else.[^2]
-   1. [Sci-Hub X Now!](https://github.com/gchenfc/sci-hub-now) - Free access to academic papers with just a single click in the broswer.
+   1. [Sci-Hub X Now!](https://github.com/gchenfc/sci-hub-now) - Fast unrestrected access to academic papers with just a single click in the broswer.
    2. [Zotero Scihub](https://github.com/ethanwillis/zotero-scihub) - Addon for Zotero and Juris-M to automatically download PDFs from Sci-Hub.
 3. [Open Source Mechanical Engineering Books](https://www.intechopen.com/subjects/121)
 4. [Free Computer Books](https://freecomputerbooks.com/)
->[!NOTE]
->If the link is donw, search for the domain using duckduckgo.
+
+
+>[!IMPORTANT]
+>To use Sci-Hub, you need to have the DOI (Digital Object Iditification) or the URL of the paper. If you don't have the DOI or the URL, you can use [Google Scholar](https://scholar.google.com/) to find the paper and then use Sci-Hub to download it.
 
 
 
 
-[^1]: [Mirrors for GenLib](https://libgen.onl/library-genesis/) - If the main website is down, you can use one of the mirrors to access the website.
+[^1]: [Mirrors for GenLib](https://libgen.onl/library-genesis/)
 [^2]: [Mirror for SciHub](https://sci-hub.hkvisa.net/)
 
 ## Stuff worth checking out [↫](#table-of-contents)
 
-1. [Bartosz Ciechanowski](https://ciechanow.ski/archives/) - Explores intreating topics with interactive visualizations.`Blog`
-2. [Willem Pennings](https://willempennings.nl/) - Inspiring projects.
-3. [The Efficient Engineer)](https://www.youtube.com/@TheEfficientEngineer) - Explores fundamental engineering concepts with animation.`YouTube`
+1. [The Efficient Engineer)](https://www.youtube.com/@TheEfficientEngineer) - Explores fundamental engineering concepts with animation.`YouTube`
+2. [Bartosz Ciechanowski](https://ciechanow.ski/archives/) - Explores intreating topics with interactive visualizations.`Blog`
+3. [Willem Pennings](https://willempennings.nl/) - Inspiring projects.`Blog`
 
 ## Essential Tools [↫](#table-of-contents)
 
@@ -73,9 +76,10 @@ Opinionated list of things I wish I knew when I started my journey in Mechanical
 
 
 
-### Roadmap [↫](#table-of-contents)
 
+## Roadmap [↫](#table-of-contents)
 
+This raodmap is a general guidance for those who wish to review the material in a structured manner. It is not a strict guideline and can be modified to suit your needs. 
 ```mermaid
 
 flowchart TB
@@ -107,7 +111,7 @@ node_19["Career path"]
 node_20["Desgin"]
 node_21["FEA"]
 
-node_13["fa:fa-oil-well Oil & Gas"]
+node_13["Oil & Gas"]
 node_22["Pipeline Eng."]
 node_23["Reservoir Eng."]
 node_24["Drilling Eng."]
@@ -117,6 +121,8 @@ node_25["Production Eng."]
 node_26["CAx(D/M/E)"]
 node_27["Manufacturing Tech."]
 node_31["Manufacturing"]
+
+
 end 
 
 ME ===B==> Career
@@ -150,7 +156,50 @@ node_31 --> node_27
 
 
 ```
+# Software guidance for ME
+```mermaid
 
+flowchart TD
+  node_1(["calculations"])
+  node_2{"Simple?"}
+  node_3("Yes")
+  node_4("No")
+  node_5{"Units #amp; readability are important?"}
+  node_7("Yes")
+  node_8("SMath")
+  node_9("No")
+  node_10("MS Excell")
+  node_6{"Do you know Python?"}
+  node_11("Yes")
+  node_12("No")
+  node_13("-Python
+  -Numpy
+  -Pandas
+  -Matplotlib ")
+  node_14("SageMath")
+  node_15("EngneeringPaper.xyz")
+  node_16("-Maple
+  -Matlab
+")
+ 
+
+  node_1 --> node_2
+  node_2 --> node_3
+  node_2 --> node_4
+  node_3 --> node_5
+  node_5 --> node_7
+  node_7 --> node_8
+  node_5 --> node_9
+  node_9 --"Wanna age faster?"--> node_10
+  node_4 --> node_6
+  node_6 --> node_11
+  node_6 --> node_12
+  node_11 --> node_13
+  node_11 --"Hate ur life?"--> node_14
+  node_7 --> node_15
+  node_12 --"Feeling like a pirate?"--> node_16
+
+```
 
 <!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
 <!-- ## Recommended books for Mechanical Engineering [↫](#table-of-contents) [^3]
