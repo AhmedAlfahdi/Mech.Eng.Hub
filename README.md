@@ -14,6 +14,7 @@ Opinionated list of things I wish I knew when I started my journey in Mechanical
       1. [PDF readers](#pdf-readers)
       2. [Calculations and graphing](#calculations-and-graphing)
       3. [Note Taking \& Programming](#note-taking--programming)
+      4. [Roadmap ↫](#roadmap-)
 
 ## Introductory General Readings [↫](#table-of-contents)
 
@@ -72,6 +73,8 @@ Opinionated list of things I wish I knew when I started my journey in Mechanical
 
 
 
+### Roadmap [↫](#table-of-contents)
+
 
 ```mermaid
 
@@ -99,11 +102,12 @@ node_9["Electrical
 
 end
 
-node_19["Job path"]
+subgraph Career
+node_19["Career path"]
 node_20["Desgin"]
 node_21["FEA"]
 
-node_13["fa:fa-oil-well Oil & Gas?"]
+node_13["fa:fa-oil-well Oil & Gas"]
 node_22["Pipeline Eng."]
 node_23["Reservoir Eng."]
 node_24["Drilling Eng."]
@@ -113,20 +117,23 @@ node_25["Production Eng."]
 node_26["CAx(D/M/E)"]
 node_27["Manufacturing Tech."]
 node_31["Manufacturing"]
+end 
 
-node_1 ==> node_2
+Eng. ==C==> Career
+
+node_1 ==A==> node_2
 node_2 --> node_3
-node_3 --> node_7
+node_3 ==B==> node_7
 node_7 --> node_4
 node_7 --> node_5
 node_7 --> node_6
 node_7 --> node_8
 node_7 --> node_9 
-node_4 --> node_19
-node_5 --> node_19
-node_6 --> node_19
-node_8 --> node_19
-node_9 --> node_19
+%%node_4 --> node_19
+%%node_5 --> node_19
+%%node_6 --> node_19
+%%node_8 --> node_19
+%%node_9 --> node_19
 node_19 --> node_13
 node_20 --> node_21
 node_19 -.-> node_20
@@ -142,12 +149,7 @@ node_31 --> node_27
 
 
 
-
-
-
-
 ```
-
 
 
 <!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
