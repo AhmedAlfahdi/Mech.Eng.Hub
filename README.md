@@ -34,13 +34,18 @@ Opinionated list of things I wish I knew when I started my journey in Mechanical
    2. [Zotero Scihub](https://github.com/ethanwillis/zotero-scihub) - Addon for Zotero and Juris-M to automatically download PDFs from Sci-Hub.
 3. [Open Source Mechanical Engineering Books](https://www.intechopen.com/subjects/121)
 4. [Free Computer Books](https://freecomputerbooks.com/)
+>[!NOTE]
+>If the link is donw, search for the domain using duckduckgo.
+
+
+
 
 [^1]: [Mirrors for GenLib](https://libgen.onl/library-genesis/) - If the main website is down, you can use one of the mirrors to access the website.
 [^2]: [Mirror for SciHub](https://sci-hub.hkvisa.net/)
 
 ## Stuff worth checking out [↫](#table-of-contents)
 
-1. [Bartosz Ciechanowski](https://ciechanow.ski/archives/) - Explores intreating topics with interactive visualizations.
+1. [Bartosz Ciechanowski](https://ciechanow.ski/archives/) - Explores intreating topics with interactive visualizations.`Blog`
 2. [Willem Pennings](https://willempennings.nl/) - Inspiring projects.
 3. [The Efficient Engineer)](https://www.youtube.com/@TheEfficientEngineer) - Explores fundamental engineering concepts with animation.`YouTube`
 
@@ -64,7 +69,16 @@ Opinionated list of things I wish I knew when I started my journey in Mechanical
 1. [VScode](https://code.visualstudio.com/) - A code editor that is designed for programming. It has a lot of features that make it easier to program.`Standalone & Online`
  
 2. [Obsidian](https://obsidian.md/) - A note-taking app that is designed for taking notes. It has a lot of features that make it easier to take notes.`Standalone`
+```mermaid
 
+flowchart TB
+  node_1["Mechnical Engineering "]
+  node_2["Math"]
+  node_3(["physics"])
+  node_1 --> node_2
+  node_2 --> node_3
+
+```
 
 <!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
 <!-- ## Recommended books for Mechanical Engineering [↫](#table-of-contents) [^3]
