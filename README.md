@@ -221,7 +221,8 @@ flowchart TD
   node_11 --> node_13
   node_11 --"Hate ur life?"--> node_14
   node_7 --> node_15
-  node_12 --"Feeling like a pirate or corporate-boy?"--> node_16
+  node_12 --"Feeling like a pirate 
+  or corporate-boy?"--> node_16
 
 ```
 
