@@ -1,6 +1,12 @@
 # The Mechanical Engineering Hub
 
 Opinionated list of things I wish I knew when I started my journey in Mechanical Engineering. This is a living document and will be updated as I learn more. If you have any suggestions, feel free to open an issue.
+>[!NOTE]
+> I choose the list based on my taste and experince with one goal in mind: to make a list of the best of the best only. Quality over quantity. Inspired by [awesome-mecheng](https://github.com/m2n037/awesome-mecheng?tab=readme-ov-file#for-cad).
+
+
+
+
 
 ## Table of Contents
 
@@ -9,15 +15,16 @@ Opinionated list of things I wish I knew when I started my journey in Mechanical
    2. [Introductory General Readings ↫](#introductory-general-readings-)
    3. [Introductory reading for math and physics ↫](#introductory-reading-for-math-and-physics-)
    4. [Textbook \& Research Papers Resources ↫](#textbook--research-papers-resources-)
-   5. [Stuff worth checking out ↫](#stuff-worth-checking-out-)
-   6. [Essential Tools ↫](#essential-tools-)
+   5. [Resourceful websites ↫](#resourceful-websites-)
+   6. [Stuff worth checking out ↫](#stuff-worth-checking-out-)
+   7. [Essential Tools ↫](#essential-tools-)
       1. [PDF readers](#pdf-readers)
       2. [Calculations and graphing](#calculations-and-graphing)
       3. [Note Taking \& Programming](#note-taking--programming)
-   7. [Roadmap ↫](#roadmap-)
+   8. [Roadmap ↫](#roadmap-)
 2. [Software guidance for ME](#software-guidance-for-me)
-   1. [Math](#math)
-   2. [Desgin](#desgin)
+   1. [Math ↫](#math-)
+   2. [Design ↫](#design-)
 
 ## Introductory General Readings [↫](#table-of-contents)
 
@@ -40,7 +47,7 @@ Opinionated list of things I wish I knew when I started my journey in Mechanical
 4. [Free Computer Books](https://freecomputerbooks.com/)
 
 
->[!IMPORTANT]
+>[!IMPORTANT] 
 >To use Sci-Hub, you need to have the DOI (Digital Object Iditification) or the URL of the paper. If you don't have the DOI or the URL, you can use [Google Scholar](https://scholar.google.com/) to find the paper and then use Sci-Hub to download it.
 
 
@@ -49,9 +56,13 @@ Opinionated list of things I wish I knew when I started my journey in Mechanical
 [^1]: [Mirrors for GenLib](https://libgen.onl/library-genesis/)
 [^2]: [Mirror for SciHub](https://sci-hub.hkvisa.net/)
 
+## Resourceful websites [↫](#table-of-contents)
+1. [PetroWiki](https://petrowiki.spe.org/PetroWiki) - A free resource for petroleum engineering information. `Wiki`
+2. [r/EngineeringStudents Wiki](https://www.reddit.com/r/EngineeringStudents/wiki/resources/) - A collection of resources for engineering students. `Wiki`
+
 ## Stuff worth checking out [↫](#table-of-contents)
 
-1. [The Efficient Engineer)](https://www.youtube.com/@TheEfficientEngineer) - Explores fundamental engineering concepts with animation.`YouTube`
+1. [The Efficient Engineer](https://www.youtube.com/@TheEfficientEngineer) - Explores fundamental engineering concepts with animation.`YouTube`
 2. [Bartosz Ciechanowski](https://ciechanow.ski/archives/) - Explores intreating topics with interactive visualizations.`Blog`
 3. [Willem Pennings](https://willempennings.nl/) - Inspiring projects.`Blog`
 
@@ -67,14 +78,28 @@ Opinionated list of things I wish I knew when I started my journey in Mechanical
 2. [Engineering paper](https://engineeringpaper.xyz/) - Shareable interactive engineering calculations and graphs powered by Python.`Online`
 3. [Fxsolver](https://www.fxsolver.com/) - Huge library of equations and formulas covering all felids of science and engineering.`Online`
 4. [Desmos](https://www.desmos.com/) - Online graphing calculator.`Online`
-<!-- 5. [NumPad](https://numpad.io/) - Online calculator with units and constants.`Online` -->
+5. [NumPad](https://numpad.io/) - Online calculator with units and constants.`Online`
 
 ### Note Taking & Programming 
 
 
 1. [VScode](https://code.visualstudio.com/) - A code editor that is designed for programming. It has a lot of features that make it easier to program.`Standalone & Online`
- 
+   1. Recommended extensions:
+
+         1. [Vim](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim) - Vim is a highly configurable text editor built to enable efficient text editing. It is an improved version of the vi editor distributed with most UNIX systems.
+         2. [Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot) - GitHub Copilot is an AI pair programmer that helps you write code faster. It draws context from the code you're working on, suggesting whole lines or entire functions.
+         3. [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one) - All you need to write Markdown (keyboard shortcuts, table of contents, auto preview and more).
+         4. [Markdown Preview Enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced) - Markdown Preview Enhanced is an extension that provides you with many useful functionalities such as automatic scroll sync, math typesetting, mermaid, PlantUML, pandoc, PDF export, code chunk, presentation writer, etc.
+         5. [Pandoc](https://marketplace.visualstudio.com/items?itemName=DougFinke.vscode-pandoc) - Pandoc is a Haskell library for converting from one markup format to another, and a command-line tool that uses this library. It can read markdown and (subsets of) reStructuredText, HTML, and LaTeX, and it can write markdown, reStructuredText, HTML, LaTeX, ConTeXt, PDF, RTF, DocBook XML, OpenDocument XML, ODT, GNU Texinfo, MediaWiki markup.
+         6. [LaTeX Workshop](https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop) - A complete set of tools for working with LaTeX files in Visual Studio Code.
+         7. [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) - A basic spell checker that works well with camelCase code.
+         8. [Jupyter](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter) - Jupyter notebook support in Visual Studio Code.
+   2.  Best used with:
+         1. [Anaconda](https://www.anaconda.com/products/distribution) - Anaconda is a distribution of the Python and R programming languages for scientific computing, that aims to simplify package management and deployment. The distribution includes data-science packages suitable for Windows, Linux, and macOS.
+         2. [MikTeX](https://miktex.org/) - MiKTeX is a typesetting system for the Windows operating system. The distribution includes TeX, pdfTeX, XeTeX, LuaTeX, ConTeXt, and a few more. It also includes a set of related programs.
+         3. [Wsl](https://docs.microsoft.com/en-us/windows/wsl/install) - The Windows Subsystem for Linux lets developers run a GNU/Linux environment -- including most command-line tools, utilities, and applications -- directly on Windows, unmodified, without the overhead of a traditional virtual machine or dualboot setup.
 2. [Obsidian](https://obsidian.md/) - A note-taking app that is designed for taking notes. It has a lot of features that make it easier to take notes.`Standalone`
+
 
 
 
@@ -86,7 +111,7 @@ This raodmap is a general guidance for those who wish to review the material in 
 
 flowchart TB
 subgraph Fundamentals
-    node_1["CORE"]
+    node_1(["CORE"])
     node_2["Math"]
     node_3["Physics"]
 end
@@ -159,7 +184,7 @@ node_31 --> node_27
 
 ```
 # Software guidance for ME
-## Math
+## Math [↫](#table-of-contents)
 ```mermaid
 
 flowchart TD
@@ -203,7 +228,7 @@ flowchart TD
   node_12 --"Feeling like a pirate or corporate-boy?"--> node_16
 
 ```
-## Desgin
+## Design [↫](#table-of-contents)
 
 ```mermaid
 
@@ -232,10 +257,11 @@ flowchart TD
   node_18["Ansys Mechanical"]
   node_22(["Explicit"])
   node_23["Ansys LS-DYNA"]
-  node_24["GrabCAD"]
+  node_24["- GrabCAD
+  - Traceparts.com"]
   node_25["Nvidia GPU?"]
   node_26["Ansys Discovery"]
-  node_27["traceparts.com"]
+ 
   node_15 --> node_6
   node_1 --> node_2
   node_2 --> node_3
@@ -265,7 +291,7 @@ flowchart TD
   node_7 --> node_25
   node_25 --> node_26
   node_11 -.-> node_26
-  node_15 --> node_27
+  
 
 ```
 <!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
