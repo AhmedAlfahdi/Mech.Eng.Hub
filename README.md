@@ -2,11 +2,7 @@
 
 Opinionated list of things I wish I knew when I started my journey in Mechanical Engineering. This is a living document and will be updated as I learn more. If you have any suggestions, feel free to open an issue.
 >[!NOTE]
-> I choose the list based on my taste and experince with one goal in mind: to make a list of the best of the best only. Quality over quantity. Inspired by [awesome-mecheng](https://github.com/m2n037/awesome-mecheng?tab=readme-ov-file#for-cad).
-
-
-
-
+> I choose the list based on my taste and experience with one goal in mind: to make a list of the best of the best only. Quality over quantity. Inspired by [awesome-mecheng](https://github.com/m2n037/awesome-mecheng?tab=readme-ov-file#for-cad).
 
 ## Table of Contents
 
@@ -18,7 +14,7 @@ Opinionated list of things I wish I knew when I started my journey in Mechanical
    5. [Resourceful websites ↫](#resourceful-websites-)
    6. [Stuff worth checking out ↫](#stuff-worth-checking-out-)
    7. [Essential Tools ↫](#essential-tools-)
-      1. [PDF readers](#pdf-readers)
+      1. [PDF readers and Organizers](#pdf-readers-and-organizers)
       2. [Calculations and graphing](#calculations-and-graphing)
       3. [Note Taking \& Programming](#note-taking--programming)
    8. [Roadmap ↫](#roadmap-)
@@ -39,24 +35,21 @@ Opinionated list of things I wish I knew when I started my journey in Mechanical
 
 ## Textbook & Research Papers Resources [↫](#table-of-contents)
 
-1. [Library Genesis](https://libgen.is/) - The zenth of all online libraries. You can find almost any book here.[^1]
+1. [Library Genesis](https://libgen.is/) - The zenith of all online libraries. You can find almost any book here.[^1]
 2. [Sci-Hub](https://sci-hub.se/) - This is a website that has a lot of scientific papers that you can download for free. It is a great resource for finding papers that you can't find anywhere else.[^2]
-   1. [Sci-Hub X Now!](https://github.com/gchenfc/sci-hub-now) - Fast unrestrected access to academic papers with just a single click in the broswer.
+   1. [Sci-Hub X Now!](https://github.com/gchenfc/sci-hub-now) - Fast unrestricted access to academic papers with just a single click in the browser.
    2. [Zotero Scihub](https://github.com/ethanwillis/zotero-scihub) - Addon for Zotero and Juris-M to automatically download PDFs from Sci-Hub.
 3. [Open Source Mechanical Engineering Books](https://www.intechopen.com/subjects/121)
 4. [Free Computer Books](https://freecomputerbooks.com/)
 
-
->[!IMPORTANT] 
->To use Sci-Hub, you need to have the DOI (Digital Object Iditification) or the URL of the paper. If you don't have the DOI or the URL, you can use [Google Scholar](https://scholar.google.com/) to find the paper and then use Sci-Hub to download it.
-
-
-
+>[!IMPORTANT]
+>To use Sci-Hub, you need to have the DOI (Digital Object Identification) or the URL of the paper. If you don't have the DOI or the URL, you can use [Google Scholar](https://scholar.google.com/) to find the paper and then use Sci-Hub to download it.
 
 [^1]: [Mirrors for GenLib](https://libgen.onl/library-genesis/)
 [^2]: [Mirror for SciHub](https://sci-hub.hkvisa.net/)
 
 ## Resourceful websites [↫](#table-of-contents)
+
 1. [PetroWiki](https://petrowiki.spe.org/PetroWiki) - A free resource for petroleum engineering information. `Wiki`
 2. [r/EngineeringStudents Wiki](https://www.reddit.com/r/EngineeringStudents/wiki/resources/) - A collection of resources for engineering students. `Wiki`
 
@@ -68,20 +61,21 @@ Opinionated list of things I wish I knew when I started my journey in Mechanical
 
 ## Essential Tools [↫](#table-of-contents)
 
-### PDF readers
+### PDF readers and Organizers
 
 1. [Sioyek](https://sioyek.info/) - A PDF reader that is designed for reading scientific papers. It has a lot of features that make it easier to read scientific papers. An overview tutorial of the features and capabilities can be found [here](https://www.youtube.com/watch?v=RaHRvnb0dY8&t=1506s).
 2. [Samarta PDF](https://www.sumatrapdfreader.org/free-pdf-reader.html) - A free PDF reader that is designed for reading scientific papers. It has a lot of features that make it easier to read scientific papers.
+3. [Zotero](https://www.zotero.org/) - A free, easy-to-use tool to help you collect, organize, cite, and share research. It is a great tool for organizing your research papers and keeping track of your references.
 
 ### Calculations and graphing
+
 1. [Smath Studio](https://smath.com/en-US) - A free software that you can use to solve equations.`Standalone`
 2. [Engineering paper](https://engineeringpaper.xyz/) - Shareable interactive engineering calculations and graphs powered by Python.`Online`
 3. [Fxsolver](https://www.fxsolver.com/) - Huge library of equations and formulas covering all felids of science and engineering.`Online`
 4. [Desmos](https://www.desmos.com/) - Online graphing calculator.`Online`
 5. [NumPad](https://numpad.io/) - Online calculator with units and constants.`Online`
 
-### Note Taking & Programming 
-
+### Note Taking & Programming
 
 1. [VScode](https://code.visualstudio.com/) - A code editor that is designed for programming. It has a lot of features that make it easier to program.`Standalone & Online`
    1. Recommended extensions:
@@ -94,19 +88,16 @@ Opinionated list of things I wish I knew when I started my journey in Mechanical
          6. [LaTeX Workshop](https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop) - A complete set of tools for working with LaTeX files in Visual Studio Code.
          7. [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) - A basic spell checker that works well with camelCase code.
          8. [Jupyter](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter) - Jupyter notebook support in Visual Studio Code.
-   2.  Best used with:
+   2. Best used with:
          1. [Anaconda](https://www.anaconda.com/products/distribution) - Anaconda is a distribution of the Python and R programming languages for scientific computing, that aims to simplify package management and deployment. The distribution includes data-science packages suitable for Windows, Linux, and macOS.
          2. [MikTeX](https://miktex.org/) - MiKTeX is a typesetting system for the Windows operating system. The distribution includes TeX, pdfTeX, XeTeX, LuaTeX, ConTeXt, and a few more. It also includes a set of related programs.
          3. [Wsl](https://docs.microsoft.com/en-us/windows/wsl/install) - The Windows Subsystem for Linux lets developers run a GNU/Linux environment -- including most command-line tools, utilities, and applications -- directly on Windows, unmodified, without the overhead of a traditional virtual machine or dualboot setup.
 2. [Obsidian](https://obsidian.md/) - A note-taking app that is designed for taking notes. It has a lot of features that make it easier to take notes.`Standalone`
 
-
-
-
-
 ## Roadmap [↫](#table-of-contents)
 
-This raodmap is a general guidance for those who wish to review the material in a structured manner. It is not a strict guideline and can be modified to suit your needs. 
+This roadmap is a general guidance for those who wish to review the material in a structured manner. It is not a strict guideline and can be modified to suit your needs.
+
 ```mermaid
 
 flowchart TB
@@ -121,10 +112,10 @@ node_4["Mechanics
 - Statics
 - Dynamics
 "]
-node_5["Material Scince
+node_5["Material Science
 - Strength of Materials"]
 node_6["Fluid Mechanics"]
-node_7["Fundemantals of Engineering"]
+node_7["Fundamentals of Engineering"]
 node_8["Thermodynamics & Heat Transfer"]
 node_9["Electrical
 - Power
@@ -135,7 +126,7 @@ end
 
 subgraph Career
 node_19["Career path"]
-node_20["Desgin"]
+node_20["Design"]
 node_21["FEA"]
 
 node_13["Oil & Gas"]
@@ -183,8 +174,11 @@ node_31 --> node_27
 
 
 ```
+
 # Software guidance for ME
+
 ## Math [↫](#table-of-contents)
+
 ```mermaid
 
 flowchart TD
@@ -192,11 +186,12 @@ flowchart TD
   node_2{"Simple?"}
   node_3("Yes")
   node_4("No")
-  node_5{"Units #amp; readability are important?"}
+  node_5{"Units & readability
+   are important?"}
   node_7("Yes")
   node_8("SMath")
   node_9("No")
-  node_10("MS Excell")
+  node_10("MS Excel")
   node_6{"Do you know Python?"}
   node_11("Yes")
   node_12("No")
@@ -205,14 +200,15 @@ flowchart TD
   -Pandas
   -Matplotlib ")
   node_14("SageMath")
-  node_15("EngneeringPaper.xyz")
+  node_15("EngineeringPaper.xyz")
   node_16("-Maple
   -Matlab
 ")
  
 
   node_1 --> node_2
-  node_2 --"Limited symbolic capabilities"--> node_3
+  node_2 --"Limited symbolic 
+   capabilities"--> node_3
   node_2 --> node_4
   node_3 --> node_5
   node_5 --> node_7
@@ -228,16 +224,17 @@ flowchart TD
   node_12 --"Feeling like a pirate or corporate-boy?"--> node_16
 
 ```
+
 ## Design [↫](#table-of-contents)
 
 ```mermaid
 
 flowchart TD
-  node_1(["Desgin"])
+  node_1(["Design"])
   node_2{"You have the CAD?"}
   node_3(["Yes"])
   node_4(["No"])
-  node_5(["Modify and prefome FEA"])
+  node_5(["Modify and preform FEA"])
   node_6(["Using which CAD?"])
   node_7(["Any CAD software; does#39;t matter"])
   node_8{"Simple FEA?"}
@@ -249,7 +246,7 @@ flowchart TD
   node_13["COMSOL"]
   node_14["Ansys Granta"]
   node_16(["Structural / Thermal"])
-  node_15(["Create or Dwonload"])
+  node_15(["Create or Download"])
   node_17(["CFD"])
   node_19["CFX"]
   node_20["Fluent "]
@@ -259,7 +256,7 @@ flowchart TD
   node_23["Ansys LS-DYNA"]
   node_24["- GrabCAD
   - Traceparts.com"]
-  node_25["Nvidia GPU?"]
+  node_25["You have Nvidia GPU?"]
   node_26["Ansys Discovery"]
  
   node_15 --> node_6
@@ -288,8 +285,8 @@ flowchart TD
   node_15 --> node_24
   node_14 -.-> node_16
   node_14 -.-> node_17
-  node_7 --> node_25
-  node_25 --> node_26
+  node_7 -.->|But...| node_25
+  node_25 -.-> node_26
   node_11 -.-> node_26
   
 
