@@ -1,12 +1,14 @@
 ```
+            ------------------------------------------------------------------------------
             >      __  ___          __         ______                 __  __      __     <
             >     /  |/  /__  _____/ /_       / ____/___  ____ _     / / / /_  __/ /_    <
             >    / /|_/ / _ \/ ___/ __ \     / __/ / __ \/ __ `/    / /_/ / / / / __ \   <
             >   / /  / /  __/ /__/ / / /    / /___/ / / / /_/ /    / __  / /_/ / /_/ /   <
             >  /_/  /_/\___/\___/_/ /_(_)  /_____/_/ /_/\__, (_)  /_/ /_/\__,_/_.___/    <
             >                                          /____/                            <
+            ------------------------------------------------------------------------------
                                           
-                              Better Engineering through Better Learning
+                                Better Engineering through Better Tools
 ```
 
 # The Mechanical Engineering Hub
@@ -25,7 +27,7 @@ Opinionated collection of websites, software, and guides for Mechanical Engineer
    2. [Introductory General Readings ↫](#introductory-general-readings-)
    3. [Introductory reading for math and physics ↫](#introductory-reading-for-math-and-physics-)
    4. [Textbooks \& Research Papers Resources ↫](#textbooks--research-papers-resources-)
-   5. [Resourceful websites ↫](#resourceful-websites-)
+   5. [Resourceful websites and quick references↫](#resourceful-websites-and-quick-references)
    6. [Stuff worth checking out ↫](#stuff-worth-checking-out-)
    7. [Essential Tools ↫](#essential-tools-)
       1. [PDF readers and Organizers](#pdf-readers-and-organizers)
@@ -62,10 +64,11 @@ Opinionated collection of websites, software, and guides for Mechanical Engineer
 [^1]: [Mirrors for GenLib](https://libgen.onl/library-genesis/)
 [^2]: [Mirror for SciHub](https://sci-hub.hkvisa.net/)
 
-## Resourceful websites [↫](#table-of-contents)
+## Resourceful websites and quick references[↫](#table-of-contents)
 
 1. [PetroWiki](https://petrowiki.spe.org/PetroWiki) - A free resource for petroleum engineering information. `Wiki`
 2. [r/EngineeringStudents Wiki](https://www.reddit.com/r/EngineeringStudents/wiki/resources/) - A collection of resources for engineering students. `Wiki`
+3. [Learn x in y minutes](https://learnxinyminutes.com/) - Get started with syntax faster. `cheat-sheet`
 
 ## Stuff worth checking out [↫](#table-of-contents)
 
