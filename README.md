@@ -83,7 +83,7 @@ Opinionated list of things I wish I knew when I started my journey in Mechanical
 1. [VScode](https://code.visualstudio.com/) - A code editor that is designed for programming. It has a lot of features that make it easier to program.`Standalone & Online`
    1. Recommended extensions:
 
-         1. [Vim](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim) - Vim is a highly configurable text editor built to enable efficient text editing. It is an improved version of the vi editor distributed with most UNIX systems.
+         1. [Vim](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim) - Vim is a highly configurable text editor built to enable efficient text editing. It is an improved version of the vi editor distributed with most UNIX systems.[^5]
          2. [Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot) - GitHub Copilot is an AI pair programmer that helps you write code faster. It draws context from the code you're working on, suggesting whole lines or entire functions.
          3. [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one) - All you need to write Markdown (keyboard shortcuts, table of contents, auto preview and more).
          4. [Markdown Preview Enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced) - Markdown Preview Enhanced is an extension that provides you with many useful functionalities such as automatic scroll sync, math typesetting, mermaid, PlantUML, pandoc, PDF export, code chunk, presentation writer, etc.
@@ -106,6 +106,7 @@ Opinionated list of things I wish I knew when I started my journey in Mechanical
 
 [^3]:  Lyx is the GUI for LaTex distribution (e.g. MikTex, TexLive, etc.) if you wish to deal with WYSIWYG editor.
 [^4]:  Although I'm a big advocate for Linux OS (i.e Arch, Debian), the learning curve is steep and it's not for everyone. WSL is a good alternative for those who wish to use Linux commands on Windows OS.
+[^5]: Vim keybindings provide a more efficient way to navigate and edit text. It's a good skill to have if you're going to be working with code or text a lot.
 ## Roadmap [↫](#table-of-contents)
 
 This roadmap is a general guidance for those who wish to review the material in a structured manner. It is not a strict guideline and can be modified to suit your needs.
