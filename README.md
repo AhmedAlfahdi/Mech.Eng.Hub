@@ -1,8 +1,12 @@
 # The Mechanical Engineering Hub
 
 Opinionated list of things I wish I knew when I started my journey in Mechanical Engineering. This is a living document and will be updated as I learn more. If you have any suggestions, feel free to open an issue.
+
 >[!NOTE]
-> I choose the list based on my taste and experience with one goal in mind: to make a list of the best of the best only. Quality over quantity. Inspired by [awesome-mecheng](https://github.com/m2n037/awesome-mecheng?tab=readme-ov-file#for-cad).
+> The list has one goal in mind: to make a list of the best of the best only. Quality over quantity. Inspired by [awesome-mecheng](https://github.com/m2n037/awesome-mecheng?tab=readme-ov-file#for-cad).
+
+> :warning: **Warning:** Do not push the big red button.
+
 
 ## Table of Contents
 
@@ -90,10 +94,16 @@ Opinionated list of things I wish I knew when I started my journey in Mechanical
          8. [Jupyter](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter) - Jupyter notebook support in Visual Studio Code.
    2. Best used with:
          1. [Anaconda](https://www.anaconda.com/products/distribution) - Anaconda is a distribution of the Python and R programming languages for scientific computing, that aims to simplify package management and deployment. The distribution includes data-science packages suitable for Windows, Linux, and macOS.
-         2. [MikTeX](https://miktex.org/) - MiKTeX is a typesetting system for the Windows operating system. The distribution includes TeX, pdfTeX, XeTeX, LuaTeX, ConTeXt, and a few more. It also includes a set of related programs.
-         3. [Wsl](https://docs.microsoft.com/en-us/windows/wsl/install) - The Windows Subsystem for Linux lets developers run a GNU/Linux environment -- including most command-line tools, utilities, and applications -- directly on Windows, unmodified, without the overhead of a traditional virtual machine or dualboot setup.
+         2. [MikTeX](https://miktex.org/) - MiKTeX is a typesetting system for the Windows operating system. The distribution includes TeX, pdfTeX, XeTeX, LuaTeX, ConTeXt, and a few more. It also includes a set of related programs.`Backend` [^3]
+         3. [WSL](https://docs.microsoft.com/en-us/windows/wsl/install) - The Windows Subsystem for Linux lets developers run a GNU/Linux environment -- including most command-line tools, utilities, and applications -- directly on Windows, unmodified, without the overhead of a traditional virtual machine or dualboot setup.
 2. [Obsidian](https://obsidian.md/) - A note-taking app that is designed for taking notes. It has a lot of features that make it easier to take notes.`Standalone`
+3. [Lyx](https://www.lyx.org/) - A document processor that encourages an approach to writing based on the structure of your documents (WYSIWYM) and not simply their appearance (WYSIWYG).`Frontend` [^3]
 
+> [!TIP] If you find both setting up LaTeX and Lyx to be a hassle, you can use [Overleaf](https://www.overleaf.com/) which is an online LaTeX editor. Moreover, you may want to explore [Typst](https://typst.app/) 
+
+
+
+[^3]:  Lyx is the GUI for LaTex distribution (e.g. MikTex, TexLive, etc.) if you wish to deal with WYSIWYG editor.
 ## Roadmap [↫](#table-of-contents)
 
 This roadmap is a general guidance for those who wish to review the material in a structured manner. It is not a strict guideline and can be modified to suit your needs.
