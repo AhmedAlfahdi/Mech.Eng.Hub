@@ -8,7 +8,7 @@
                0>                                          /____/                            <0
                1>----------------------------------------------------------------------------<1
                                                    Version 1.0.0
-                                      Better Engineering through Better Tools
+                                      Better Engineering Through Better Tools
 ```
 
 # The Mechanical Engineering Hub
@@ -51,7 +51,7 @@ Opinionated collection of websites, software, and guides for Mechanical Engineer
 ## Textbooks & Research Papers Resources [↫](#table-of-contents)
 
 1. [Library Genesis](https://libgen.is/) - The zenith of all online libraries. You can find almost any book here.[^1]
-2. [Sci-Hub](https://sci-hub.se/) - This is a website that has a lot of scientific papers that you can download for free. It is a great resource for finding papers that you can't find anywhere else.[^2]
+2. [Sci-Hub](https://sci-hub.se/) - This is a website that has a lot of scientific papers that you can download for free.[^2]
    1. [Sci-Hub X Now!](https://github.com/gchenfc/sci-hub-now) - Fast unrestricted access to academic papers with just a single click in the browser.
    2. [Zotero Scihub](https://github.com/ethanwillis/zotero-scihub) - Addon for Zotero and Juris-M to automatically download PDFs from Sci-Hub.
 3. [Open Source Mechanical Engineering Books](https://www.intechopen.com/subjects/121)
@@ -79,9 +79,9 @@ Opinionated collection of websites, software, and guides for Mechanical Engineer
 
 ### PDF readers and Organizers
 
-1. [Sioyek](https://sioyek.info/) - A PDF reader that is designed for reading scientific papers. It has a lot of features that make it easier to read scientific papers. An overview tutorial of the features and capabilities can be found [here](https://www.youtube.com/watch?v=RaHRvnb0dY8&t=1506s).
-2. [Samarta PDF](https://www.sumatrapdfreader.org/free-pdf-reader.html) - A free PDF reader that is designed for reading scientific papers. It has a lot of features that make it easier to read scientific papers.
-3. [Zotero](https://www.zotero.org/) - A free, easy-to-use tool to help you collect, organize, cite, and share research. It is a great tool for organizing your research papers and keeping track of your references.
+1. [Sioyek](https://sioyek.info/) - A PDF reader that is designed for reading scientific papers. An overview tutorial of the features and capabilities can be found [here](https://www.youtube.com/watch?v=RaHRvnb0dY8&t=1506s).`Standalone`
+2. [Samarta PDF](https://www.sumatrapdfreader.org/free-pdf-reader.html) - Lightweight PDF reader. `Standalone` 
+3. [Zotero](https://www.zotero.org/) - A free, easy-to-use tool to help you collect, organize, cite, and share research. It is a great tool for organizing your research papers and keeping track of your references.`Standalone`
 
 ### Calculations and graphing
 
@@ -96,7 +96,7 @@ Opinionated collection of websites, software, and guides for Mechanical Engineer
 1. [VScode](https://code.visualstudio.com/) - A code editor that is designed for programming. It has a lot of features that make it easier to program.`Standalone & Online`
    1. Recommended extensions:
 
-         1. [Vim](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim) - Vim is a highly configurable text editor built to enable efficient text editing. It is an improved version of the vi editor distributed with most UNIX systems.[^5]
+         1. [Vim](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim) - Enables Vim keybindings in VScode.[^5]
          2. [Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot) - GitHub Copilot is an AI pair programmer that helps you write code faster. It draws context from the code you're working on, suggesting whole lines or entire functions.
          3. [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one) - All you need to write Markdown (keyboard shortcuts, table of contents, auto preview and more).
          4. [Markdown Preview Enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced) - Markdown Preview Enhanced is an extension that provides you with many useful functionalities such as automatic scroll sync, math typesetting, mermaid, PlantUML, pandoc, PDF export, code chunk, presentation writer, etc.
@@ -104,14 +104,14 @@ Opinionated collection of websites, software, and guides for Mechanical Engineer
          6. [Pandoc](https://marketplace.visualstudio.com/items?itemName=DougFinke.vscode-pandoc) - Pandoc is a Haskell library for converting from one markup format to another, and a command-line tool that uses this library. It can read markdown and (subsets of) reStructuredText, HTML, and LaTeX, and it can write markdown, reStructuredText, HTML, LaTeX, ConTeXt, PDF, RTF, DocBook XML, OpenDocument XML, ODT, GNU Texinfo, MediaWiki markup.
          7. [LaTeX Workshop](https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop) - A complete set of tools for working with LaTeX files in Visual Studio Code.
          8. [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) - A basic spell checker that works well with camelCase code.
-         9. [Jupyter](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter) - Jupyter notebook support in Visual Studio Code.
+         9. [Jupyter](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter) - Jupyter notebook support in Visual Studio Code. Supports many languages and kernels. ***Check out [awesome-jupyter](https://github.com/markusschanta/awesome-jupyter).***
    
    2. Best used with:
          1. [Anaconda](https://www.anaconda.com/products/distribution) - Anaconda is a distribution of the Python and R programming languages for scientific computing, that aims to simplify package management and deployment. The distribution includes data-science packages suitable for Windows, Linux, and macOS.
-         2. [MikTeX](https://miktex.org/) - MiKTeX is a typesetting system for the Windows operating system. The distribution includes TeX, pdfTeX, XeTeX, LuaTeX, ConTeXt, and a few more. It also includes a set of related programs.[^3]`Backend` 
+         2. [MikTeX](https://miktex.org/) - MiKTeX is a typesetting system for the Windows operating system. The distribution includes TeX, pdfTeX, XeTeX, LuaTeX, ConTeXt, and a few more.[^3]`Backend` 
          3. [WSL](https://docs.microsoft.com/en-us/windows/wsl/install) - The Windows Subsystem for Linux lets developers run a GNU/Linux environment -- including most command-line tools, utilities, and applications -- directly on Windows, unmodified, without the overhead of a traditional virtual machine or dualboot setup.[^4]
-2. [Obsidian](https://obsidian.md/) - A note-taking app that is designed for taking notes. It has a lot of features that make it easier to take notes.`Standalone`
-3. [Heynote](https://heynote.com/) - Scratchpad buffer with blocks, and many languages support.`Standalone`
+2. [Obsidian](https://obsidian.md/) - A note-taking app that is designed for taking notes. It has a lot of features that make it easier to take notes and retrieve them.`Standalone`
+3. [Heynote](https://heynote.com/) - Scratchpad buffer with blocks, and with many languages support.Great for on-the-fly note taking.`Standalone`
 4. [Lyx](https://www.lyx.org/) - A document processor that encourages an approach to writing based on the structure of your documents (WYSIWYM) and not simply their appearance (WYSIWYG).[^3]`Frontend` 
 
 > [!TIP] 
