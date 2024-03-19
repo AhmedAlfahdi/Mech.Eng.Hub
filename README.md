@@ -1,3 +1,14 @@
+```
+
+  ________            __  ___          __                _            __   ______            _                      _                __  __      __  
+ /_  __/ /_  ___     /  |/  /__  _____/ /_  ____ _____  (_)________ _/ /  / ____/___  ____ _(_)___  ___  ___  _____(_)___  ____ _   / / / /_  __/ /_ 
+  / / / __ \/ _ \   / /|_/ / _ \/ ___/ __ \/ __ `/ __ \/ / ___/ __ `/ /  / __/ / __ \/ __ `/ / __ \/ _ \/ _ \/ ___/ / __ \/ __ `/  / /_/ / / / / __ \
+ / / / / / /  __/  / /  / /  __/ /__/ / / / /_/ / / / / / /__/ /_/ / /  / /___/ / / / /_/ / / / / /  __/  __/ /  / / / / / /_/ /  / __  / /_/ / /_/ /
+/_/ /_/ /_/\___/  /_/  /_/\___/\___/_/ /_/\__,_/_/ /_/_/\___/\__,_/_/  /_____/_/ /_/\__, /_/_/ /_/\___/\___/_/  /_/_/ /_/\__, /  /_/ /_/\__,_/_.___/ 
+                                                                                   /____/                               /____/                       
+
+
+```
 # The Mechanical Engineering Hub
 
 Opinionated list of things I wish I knew when I started my journey in Mechanical Engineering. This is a living document and will be updated as I learn more. If you have any suggestions, feel free to open an issue.
@@ -72,7 +83,7 @@ Opinionated list of things I wish I knew when I started my journey in Mechanical
 
 ### Calculations and graphing
 
-1. [Smath Studio](https://smath.com/en-US) - A free software that you can use to solve equations.`Standalone`
+1. [Smath Studio](https://smath.com/en-US) - A free software that you can use to solve math numerically, and -somewhat- symbolically in notebook style with units. `Standalone`
 2. [Engineering paper](https://engineeringpaper.xyz/) - Shareable interactive engineering calculations and graphs powered by Python.`Online`
 3. [Fxsolver](https://www.fxsolver.com/) - Huge library of equations and formulas covering all felids of science and engineering.`Online`
 4. [Desmos](https://www.desmos.com/) - Online graphing calculator.`Online`
@@ -87,26 +98,28 @@ Opinionated list of things I wish I knew when I started my journey in Mechanical
          2. [Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot) - GitHub Copilot is an AI pair programmer that helps you write code faster. It draws context from the code you're working on, suggesting whole lines or entire functions.
          3. [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one) - All you need to write Markdown (keyboard shortcuts, table of contents, auto preview and more).
          4. [Markdown Preview Enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced) - Markdown Preview Enhanced is an extension that provides you with many useful functionalities such as automatic scroll sync, math typesetting, mermaid, PlantUML, pandoc, PDF export, code chunk, presentation writer, etc.
-         5. [Pandoc](https://marketplace.visualstudio.com/items?itemName=DougFinke.vscode-pandoc) - Pandoc is a Haskell library for converting from one markup format to another, and a command-line tool that uses this library. It can read markdown and (subsets of) reStructuredText, HTML, and LaTeX, and it can write markdown, reStructuredText, HTML, LaTeX, ConTeXt, PDF, RTF, DocBook XML, OpenDocument XML, ODT, GNU Texinfo, MediaWiki markup.
-         6. [LaTeX Workshop](https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop) - A complete set of tools for working with LaTeX files in Visual Studio Code.
-         7. [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) - A basic spell checker that works well with camelCase code.
-         8. [Jupyter](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter) - Jupyter notebook support in Visual Studio Code.
+         5. [Mermaid](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-mermaid) - Markdown + Mermaid = diagrams for your documentation.
+         6. [Pandoc](https://marketplace.visualstudio.com/items?itemName=DougFinke.vscode-pandoc) - Pandoc is a Haskell library for converting from one markup format to another, and a command-line tool that uses this library. It can read markdown and (subsets of) reStructuredText, HTML, and LaTeX, and it can write markdown, reStructuredText, HTML, LaTeX, ConTeXt, PDF, RTF, DocBook XML, OpenDocument XML, ODT, GNU Texinfo, MediaWiki markup.
+         7. [LaTeX Workshop](https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop) - A complete set of tools for working with LaTeX files in Visual Studio Code.
+         8. [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) - A basic spell checker that works well with camelCase code.
+         9. [Jupyter](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter) - Jupyter notebook support in Visual Studio Code.
+   
    2. Best used with:
          1. [Anaconda](https://www.anaconda.com/products/distribution) - Anaconda is a distribution of the Python and R programming languages for scientific computing, that aims to simplify package management and deployment. The distribution includes data-science packages suitable for Windows, Linux, and macOS.
-         2. [MikTeX](https://miktex.org/) - MiKTeX is a typesetting system for the Windows operating system. The distribution includes TeX, pdfTeX, XeTeX, LuaTeX, ConTeXt, and a few more. It also includes a set of related programs.`Backend` [^3]
+         2. [MikTeX](https://miktex.org/) - MiKTeX is a typesetting system for the Windows operating system. The distribution includes TeX, pdfTeX, XeTeX, LuaTeX, ConTeXt, and a few more. It also includes a set of related programs.[^3]`Backend` 
          3. [WSL](https://docs.microsoft.com/en-us/windows/wsl/install) - The Windows Subsystem for Linux lets developers run a GNU/Linux environment -- including most command-line tools, utilities, and applications -- directly on Windows, unmodified, without the overhead of a traditional virtual machine or dualboot setup.[^4]
 2. [Obsidian](https://obsidian.md/) - A note-taking app that is designed for taking notes. It has a lot of features that make it easier to take notes.`Standalone`
 3. [Heynote](https://heynote.com/) - Scratchpad buffer with blocks, and many languages support.`Standalone`
-4. [Lyx](https://www.lyx.org/) - A document processor that encourages an approach to writing based on the structure of your documents (WYSIWYM) and not simply their appearance (WYSIWYG).`Frontend` [^3]
+4. [Lyx](https://www.lyx.org/) - A document processor that encourages an approach to writing based on the structure of your documents (WYSIWYM) and not simply their appearance (WYSIWYG).[^3]`Frontend` 
 
 > [!TIP] 
 > If you find both setting up and using LaTeX and Lyx to be a hassle, you can use [Overleaf](https://www.overleaf.com/) which is an online LaTeX editor. Moreover, you may want to explore [Typst](https://typst.app/) `Beta` which aims to overcome the shortcomings of LaTeX.  
 
 
 
-[^3]:  Lyx is the GUI for LaTex distribution (e.g. MikTex, TexLive, etc.) if you wish to deal with WYSIWYG editor.
+[^3]:  Lyx is the GUI frontend for LaTex distribution backend (e.g. MikTex, TexLive, etc.). It provides a more user-friendly way to write LaTex documents.
 [^4]:  Although I'm a big advocate for Linux OS (i.e Arch, Debian), the learning curve is steep and it's not for everyone. WSL is a good alternative for those who wish to use Linux commands on Windows OS.
-[^5]: Vim keybindings provide a more efficient way to navigate and edit text. It's a good skill to have if you're going to be working with code or text a lot.
+[^5]: Vim keybindings provide a more efficient way to navigate and edit text. It's a good skill to have if you're going to be working with code or text a lot. I wouldn't advise using Vim, Neovim or -even worse- Emacs as your main text editor, they are not user-friendly and break often with updates.
 ## Roadmap [↫](#table-of-contents)
 
 This roadmap is a general guidance for those who wish to review the material in a structured manner. It is not a strict guideline and can be modified to suit your needs.
