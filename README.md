@@ -32,10 +32,10 @@ Opinionated collection of websites, software, and guides for Mechanical Engineer
       1. [PDF readers and Organizers](#pdf-readers-and-organizers)
       2. [Calculations and graphing](#calculations-and-graphing)
       3. [Programming, Note Taking, and Document Processing](#programming-note-taking-and-document-processing)
-   8. [Roadmap ↫](#roadmap-)
-2. [Software guidance for ME](#software-guidance-for-me)
-   1. [Math ↫](#math-)
-   2. [Design ↫](#design-)
+2. [Roadmap](#roadmap)
+   1. [How to Review Materials ↫](#how-to-review-materials-)
+   2. [Math ↫](#math-)
+   3. [Design ↫](#design-)
 
 ## Introductory General Readings [↫](#table-of-contents)
 
@@ -122,9 +122,14 @@ Opinionated collection of websites, software, and guides for Mechanical Engineer
 [^3]:  Lyx is the GUI frontend for LaTex distribution backend (e.g. MikTex, TexLive, etc.). It provides a more user-friendly way to write LaTex documents.
 [^4]:  Although I'm a big advocate for Linux OS (i.e Arch, Debian), the learning curve is steep and it's not for everyone. WSL is a good alternative for those who wish to use Linux commands on Windows OS.
 [^5]: Vim keybindings provide a more efficient way to navigate and edit text. It's a good skill to have if you're going to be working with code or text a lot. I wouldn't advise using Vim, Neovim or -even worse- Emacs as your main text editor, they are not user-friendly and break often with updates.
-## Roadmap [↫](#table-of-contents)
 
-This roadmap is a general guidance for those who wish to review the material in a structured manner. It is not a strict guideline and can be modified to suit your needs.
+
+# Roadmap
+
+## How to Review Materials [↫](#table-of-contents)
+
+This roadmap is a general guidance for those who wish to review the material in a structured manner. Feel free to modify it to fit your needs.
+
 
 ```mermaid
 
@@ -151,7 +156,7 @@ node_9["Electrical
 - Control"]
 
 end
-Fundamentals ===A===> ME
+Fundamentals ==A===> ME
 subgraph Career
 node_19["Career path"]
 node_20["Design"]
@@ -203,7 +208,6 @@ node_31 --> node_27
 
 ```
 
-# Software guidance for ME
 
 ## Math [↫](#table-of-contents)
 
