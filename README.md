@@ -6,12 +6,12 @@
             >  /_/  /_/\___/\___/_/ /_(_)  /_____/_/ /_/\__, (_)  /_/ /_/\__,_/_.___/    <
             >                                          /____/                            <
                                           
-                                          Https://AhmedAlfadi.github.io
+                              Better Engineering through Better Learning
 ```
 
 # The Mechanical Engineering Hub
 
-Opinionated list of things I wish I knew when I started my journey in Mechanical Engineering. This is a living document and will be updated as I learn more. If you have any suggestions, feel free to open an issue.
+Opinionated collection of websites, software, and guides for Mechanical Engineers. This is a living document and will be updated as I learn more. If you have any suggestions, feel free to open an issue.
 
 >[!NOTE]
 > The list has one goal in mind: to make a list of the best of the best only. Quality over quantity. Inspired by [awesome-mecheng](https://github.com/m2n037/awesome-mecheng?tab=readme-ov-file#for-cad).
