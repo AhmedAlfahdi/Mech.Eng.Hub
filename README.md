@@ -5,8 +5,9 @@
  / /  / /  __/ /__/ / / /    / /___/ / / / /_/ /    / __  / /_/ / /_/ /
 /_/  /_/\___/\___/_/ /_(_)  /_____/_/ /_/\__, (_)  /_/ /_/\__,_/_.___/ 
                                         /____/                         
- sudo pacman -S Mechanical-Engineering Software
+sudo pacman -Syyu
 ```
+
 # The Mechanical Engineering Hub
 
 Opinionated list of things I wish I knew when I started my journey in Mechanical Engineering. This is a living document and will be updated as I learn more. If you have any suggestions, feel free to open an issue.
