@@ -5,7 +5,6 @@ Opinionated list of things I wish I knew when I started my journey in Mechanical
 >[!NOTE]
 > The list has one goal in mind: to make a list of the best of the best only. Quality over quantity. Inspired by [awesome-mecheng](https://github.com/m2n037/awesome-mecheng?tab=readme-ov-file#for-cad).
 
-> :warning: **Warning:** Do not push the big red button.
 
 
 ## Table of Contents
@@ -14,13 +13,13 @@ Opinionated list of things I wish I knew when I started my journey in Mechanical
    1. [Table of Contents](#table-of-contents)
    2. [Introductory General Readings ↫](#introductory-general-readings-)
    3. [Introductory reading for math and physics ↫](#introductory-reading-for-math-and-physics-)
-   4. [Textbook \& Research Papers Resources ↫](#textbook--research-papers-resources-)
+   4. [Textbooks \& Research Papers Resources ↫](#textbooks--research-papers-resources-)
    5. [Resourceful websites ↫](#resourceful-websites-)
    6. [Stuff worth checking out ↫](#stuff-worth-checking-out-)
    7. [Essential Tools ↫](#essential-tools-)
       1. [PDF readers and Organizers](#pdf-readers-and-organizers)
       2. [Calculations and graphing](#calculations-and-graphing)
-      3. [Note Taking \& Programming](#note-taking--programming)
+      3. [Programming, Note Taking, and Document Processing](#programming-note-taking-and-document-processing)
    8. [Roadmap ↫](#roadmap-)
 2. [Software guidance for ME](#software-guidance-for-me)
    1. [Math ↫](#math-)
@@ -37,7 +36,7 @@ Opinionated list of things I wish I knew when I started my journey in Mechanical
 1. [The Feynman Lectures on Physics](https://www.feynmanlectures.caltech.edu/)
 2. [Calculus Made Easy](https://calculusmadeeasy.org/)
 
-## Textbook & Research Papers Resources [↫](#table-of-contents)
+## Textbooks & Research Papers Resources [↫](#table-of-contents)
 
 1. [Library Genesis](https://libgen.is/) - The zenith of all online libraries. You can find almost any book here.[^1]
 2. [Sci-Hub](https://sci-hub.se/) - This is a website that has a lot of scientific papers that you can download for free. It is a great resource for finding papers that you can't find anywhere else.[^2]
@@ -47,7 +46,7 @@ Opinionated list of things I wish I knew when I started my journey in Mechanical
 4. [Free Computer Books](https://freecomputerbooks.com/)
 
 >[!IMPORTANT]
->To use Sci-Hub, you need to have the DOI (Digital Object Identification) or the URL of the paper. If you don't have the DOI or the URL, you can use [Google Scholar](https://scholar.google.com/) to find the paper and then use Sci-Hub to download it.
+>To use Sci-Hub, you need to have the DOI (Digital Object Identifier) or the URL of the paper. If you don't have the DOI or the URL, you can use [Google Scholar](https://scholar.google.com/) to find the paper and then use Sci-Hub to download it.
 
 [^1]: [Mirrors for GenLib](https://libgen.onl/library-genesis/)
 [^2]: [Mirror for SciHub](https://sci-hub.hkvisa.net/)
@@ -79,7 +78,7 @@ Opinionated list of things I wish I knew when I started my journey in Mechanical
 4. [Desmos](https://www.desmos.com/) - Online graphing calculator.`Online`
 5. [NumPad](https://numpad.io/) - Online calculator with units and constants.`Online`
 
-### Note Taking & Programming
+### Programming, Note Taking, and Document Processing
 
 1. [VScode](https://code.visualstudio.com/) - A code editor that is designed for programming. It has a lot of features that make it easier to program.`Standalone & Online`
    1. Recommended extensions:
@@ -95,15 +94,18 @@ Opinionated list of things I wish I knew when I started my journey in Mechanical
    2. Best used with:
          1. [Anaconda](https://www.anaconda.com/products/distribution) - Anaconda is a distribution of the Python and R programming languages for scientific computing, that aims to simplify package management and deployment. The distribution includes data-science packages suitable for Windows, Linux, and macOS.
          2. [MikTeX](https://miktex.org/) - MiKTeX is a typesetting system for the Windows operating system. The distribution includes TeX, pdfTeX, XeTeX, LuaTeX, ConTeXt, and a few more. It also includes a set of related programs.`Backend` [^3]
-         3. [WSL](https://docs.microsoft.com/en-us/windows/wsl/install) - The Windows Subsystem for Linux lets developers run a GNU/Linux environment -- including most command-line tools, utilities, and applications -- directly on Windows, unmodified, without the overhead of a traditional virtual machine or dualboot setup.
+         3. [WSL](https://docs.microsoft.com/en-us/windows/wsl/install) - The Windows Subsystem for Linux lets developers run a GNU/Linux environment -- including most command-line tools, utilities, and applications -- directly on Windows, unmodified, without the overhead of a traditional virtual machine or dualboot setup.[^4]
 2. [Obsidian](https://obsidian.md/) - A note-taking app that is designed for taking notes. It has a lot of features that make it easier to take notes.`Standalone`
-3. [Lyx](https://www.lyx.org/) - A document processor that encourages an approach to writing based on the structure of your documents (WYSIWYM) and not simply their appearance (WYSIWYG).`Frontend` [^3]
+3. [Heynote](https://heynote.com/) - Scratchpad buffer with blocks, and many languages support.`Standalone`
+4. [Lyx](https://www.lyx.org/) - A document processor that encourages an approach to writing based on the structure of your documents (WYSIWYM) and not simply their appearance (WYSIWYG).`Frontend` [^3]
 
-> [!TIP] If you find both setting up LaTeX and Lyx to be a hassle, you can use [Overleaf](https://www.overleaf.com/) which is an online LaTeX editor. Moreover, you may want to explore [Typst](https://typst.app/) 
+> [!TIP] 
+> If you find both setting up and using LaTeX and Lyx to be a hassle, you can use [Overleaf](https://www.overleaf.com/) which is an online LaTeX editor. Moreover, you may want to explore [Typst](https://typst.app/) `Beta` which aims to overcome the shortcomings of LaTeX.  
 
 
 
 [^3]:  Lyx is the GUI for LaTex distribution (e.g. MikTex, TexLive, etc.) if you wish to deal with WYSIWYG editor.
+[^4]:  Although I'm a big advocate for Linux OS (i.e Arch, Debian), the learning curve is steep and it's not for everyone. WSL is a good alternative for those who wish to use Linux commands on Windows OS.
 ## Roadmap [↫](#table-of-contents)
 
 This roadmap is a general guidance for those who wish to review the material in a structured manner. It is not a strict guideline and can be modified to suit your needs.
