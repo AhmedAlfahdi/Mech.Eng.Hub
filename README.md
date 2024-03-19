@@ -151,7 +151,7 @@ node_9["Electrical
 - Control"]
 
 end
-
+Fundamentals ===A===> ME
 subgraph Career
 node_19["Career path"]
 node_20["Design"]
@@ -175,7 +175,7 @@ ME ===B==> Career
 
 node_1 --> node_2
 node_2 --> node_3
-node_3 ===A==> node_7
+%%node_3 ===A==> node_7
 node_7 --> node_4
 node_7 --> node_5
 node_7 --> node_6
