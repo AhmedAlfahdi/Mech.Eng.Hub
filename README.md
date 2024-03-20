@@ -156,7 +156,7 @@ node_9["Electrical
 - Control"]
 
 end
-Fundamentals ==A===> ME
+Fundamentals ===A===> ME
 subgraph Career
 node_19["Career path"]
 node_20["Design"]
