@@ -267,11 +267,12 @@ flowchart TD
   node_4(["No"])
   node_5(["Modify and preform FEA"])
   node_6(["Using which CAD?"])
-  node_7(["Any CAD software; does#39;t matter"])
+  node_7(["Any CAD software;
+  doesn't matter"])
   node_8{"Simple FEA?"}
   node_9(["Yes"])
   node_10(["No"])
-  node_11(["Use sim add-ons; 
+  node_11(["Use sim add-ons;
   most CAD software have them"])
   node_12["ANSYS"]
   node_13["COMSOL"]
@@ -285,8 +286,7 @@ flowchart TD
   node_18["Ansys Mechanical"]
   node_22(["Explicit"])
   node_23["Ansys LS-DYNA"]
-  node_24["- GrabCAD
-  - Traceparts.com"]
+  node_24["GrabCAD"]
   node_25["You have Nvidia GPU?"]
   node_26["Ansys Discovery"]
  
