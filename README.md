@@ -271,7 +271,7 @@ flowchart TD
   node_8{"Simple FEA?"}
   node_9(["Yes"])
   node_10(["No"])
-  node_11(["Use sim add-ons;<br> most CAD software have them"])
+  node_11(["Use sim add-ons;<br> included in CAD"])
   node_12["ANSYS"]
   node_13["COMSOL"]
   node_14["Ansys Granta"]
