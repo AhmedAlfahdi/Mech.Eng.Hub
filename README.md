@@ -146,9 +146,9 @@ node_5["Material Science<br>- Strength of Materials"]
 
 node_6["Fluid Mechanics"]
 
-node_7["Fundamentals of Engineering"]
+node_7["Engineering Fundamentals"]
 
-node_8["Thermodynamics & Heat Transfer"]
+node_8["Thermodynamics"]
 node_9["Machine Design"]
 
 end
