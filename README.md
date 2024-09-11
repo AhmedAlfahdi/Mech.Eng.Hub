@@ -267,13 +267,11 @@ flowchart TD
   node_4(["No"])
   node_5(["Modify and preform FEA"])
   node_6(["Using which CAD?"])
-  node_7(["Any CAD software;
-  doesn't matter"])
+  node_7(["Any CAD software;<br>doesn't matter"])
   node_8{"Simple FEA?"}
   node_9(["Yes"])
   node_10(["No"])
-  node_11(["Use sim add-ons;
-  most CAD software have them"])
+  node_11(["Use sim add-ons;<br> most CAD software have them"])
   node_12["ANSYS"]
   node_13["COMSOL"]
   node_14["Ansys Granta"]
