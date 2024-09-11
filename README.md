@@ -141,19 +141,15 @@ subgraph Fundamentals
 end
 
 subgraph ME
-node_4["Mechanics
-- Statics
-- Dynamics
-"]
-node_5["Material Science
-- Strength of Materials"]
+node_4["Mechanics<br>- Statics<br>- Dynamics<br>"]
+node_5["Material Science<br>- Strength of Materials"]
+
 node_6["Fluid Mechanics"]
+
 node_7["Fundamentals of Engineering"]
+
 node_8["Thermodynamics & Heat Transfer"]
-node_9["Electrical
-- Power
-- Electronics
-- Control"]
+node_9["Machine Design"]
 
 end
 Fundamentals ===A===> ME
@@ -228,11 +224,11 @@ flowchart TD
   node_11("Yes")
   node_12("No")
   node_13("-Python
-  -Numpy
-  -Scipy
+  -NumPy
+  -SciPy
   -Pint
   -Pandas
-  -Matplotlib ")
+  -Matplotlib")
   node_14("SageMath")
   node_15("EngineeringPaper.xyz")
   node_16("-Maple
